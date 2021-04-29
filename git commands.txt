@@ -1,0 +1,11 @@
+Git commands
+
+ls
+cd
+git init
+git remote add originn <get link>
+get remote
+git add
+git commit -m "First commit"
+git push origin master
+git help
